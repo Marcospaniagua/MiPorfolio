@@ -1,0 +1,25 @@
+p{
+    color:white;
+    
+}
+ul{
+    color:white;
+}
+h1{
+    color:blue;
+    
+}
+h2{
+    color: blue;
+ 
+}
+a{
+    color:#000;
+
+}
+section{
+    border: 2px #000 solid;
+    margin: 40px;
+    padding: 20px;
+    background-color: gray;
+}
